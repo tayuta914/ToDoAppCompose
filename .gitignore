@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e538fdee3105f1ed375d079cf290e23830e6be8
 # Compiled class file
 *.class
 
@@ -25,6 +28,7 @@ hs_err_pid*
 replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
+<<<<<<< HEAD
 .kotlin/
 =======
 *.iml
@@ -43,3 +47,6 @@ replay_pid*
 .cxx
 local.properties
 >>>>>>> d2e2028 (Intial Commit)
+=======
+.kotlin/
+>>>>>>> 8e538fdee3105f1ed375d079cf290e23830e6be8
